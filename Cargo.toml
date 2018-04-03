@@ -1,0 +1,6 @@
+[package]
+name = "test_updating"
+version = "0.1.0"
+
+[dependencies]
+a = { path = "modules/a" }
